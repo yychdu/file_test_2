@@ -1,0 +1,2 @@
+﻿LINK : fatal error LNK1168: 无法打开 D:\HQ\day10\test\Debug\tst2.exe 进行写入
+C:\Program Files (x86)\Common Files\Microsoft Shared\vs\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(861,5): error MSB6006: “link.exe”已退出，代码为 1168。
